@@ -1,5 +1,5 @@
 ## com.nerosec:xns-io
 Library for I/O ops. related extensions.
 
-[!NOTE]
+> [!NOTE]
 Library is in active development.
